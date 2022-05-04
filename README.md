@@ -1,1 +1,1 @@
-# (leetcode)[leetcode.com/gisioraelvis] Problem Solutions
+# [leetcode](leetcode.com/gisioraelvis/) Problem Solutions
